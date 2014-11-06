@@ -10,4 +10,4 @@ daisuke in the github
 - [LinkedIn] [@osada](http://linkedin.com/in/osada)
 - [pinterest] [@barlog](http://pinterest.com/barlog)
 
-by daisuke osada[daisuke.co](http://daisuke.co) 長田大輔 a.k.a. barlog[osada.us](http://osada.us)
+by daisuke osada ([daisuke.co](http://daisuke.co)) 長田大輔 a.k.a. barlog ([osada.us](http://osada.us))
