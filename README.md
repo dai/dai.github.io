@@ -1,6 +1,19 @@
 dai.github.io
 =============
 
+* * * 
+
+**Welcome the feature to GFM TaskList.**
+
+- [x] @dai かっこ<del>わるい</del>
+- [ ]:copyright: @dai かっけえ :hammer:
+
+```
+- [x] @dai かっこ<del>わるい</del>
+- [ ]:copyright: @dai かっけえ :hammer:
+```
+
+
 ### daisuke in the github
 
 twitter
