@@ -13,8 +13,6 @@ dai.github.io
 - [ ]:copyright: @dai かっけえ :hammer:
 ```
 
-[![BADGINATOR](https://badginator.herokuapp.com/dai/loca.svg)](https://github.com/defunctzombie/badginator)
-
 ### daisuke in the github
 
 twitter
