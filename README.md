@@ -3,15 +3,10 @@ dai.github.io
 
 * * * 
 
-**Welcome the feature to GFM TaskList.**
+**Welcome the daisuke os ADA project.**
 
-- [x] @dai かっこ<del>わるい</del>
-- [ ]:copyright: @dai かっけえ :hammer:
-
-```
-- [x] @dai かっこ<del>わるい</del>
-- [ ]:copyright: @dai かっけえ :hammer:
-```
+- [x] @dai + skeh
+- [ ]:copyright: @dai
 
 ### daisuke in the github
 
@@ -21,8 +16,8 @@ twitter
 facebook
 :   [@daisuke.osada](http://facebook.com/daisuke.osada)
 
-Frontback
-:   [@dai](http://frontback.me/dai)
+github
+:   [@dai](http://github.com/dai)
 
 AngelList
 :   [@daisuke](http://angel.co/daisuke)
