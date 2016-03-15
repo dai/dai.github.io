@@ -5,7 +5,7 @@ dai.github.io
 
 **Welcome the daisuke os ADA project.**
 
-- [x] @dai + skeh
+- [x] @dai + skeh だいすけ
 - [ ]:copyright: @dai
 
 ### daisuke in the github
