@@ -12,6 +12,7 @@ dai.github.io
 
 twitter
 :   [@daisuke](http://twitter.com/daisuke)
+:   [@daiskeh](http://twitter.com/daiskeh)
 
 facebook
 :   [@daisuke.osada](http://facebook.com/daisuke.osada)
