@@ -1,0 +1,8 @@
+title: daisuke osada hub site
+description: "\"daisuke osada\", barlog"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
